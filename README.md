@@ -10,9 +10,11 @@ My real name is Safiq Faray though, informatics undergraduate student
 - Basic frontend with HTML, CSS, and Javascript. I don't know any fancy JS libraries like react or vue
 - Backend with PHP (Laravel)
 - Desktop app with JavaFX and .NET
-- Python is my go-to language for general purpose
+- Machine learning and deep learning, especially on image interpretation and natural language processing
+- Basic image processing with MATLAB
+- Python is my go-to language for general purposes
 ## What i'm doing right now
 - Doing my final project so leave me alone
 ## Important links
-- [https://letterboxd.com/](https://letterboxd.com/haruray/)
+- [https://letterboxd.com/haruray/](https://letterboxd.com/haruray/)
 - https://www.backloggd.com/u/haruray/
