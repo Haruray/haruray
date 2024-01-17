@@ -15,6 +15,7 @@ My real name is Safiq Faray though, informatics undergraduate student
 - Python is my go-to language for general purposes
 ## What i'm doing right now
 - Doing my final project so leave me alone
+- Learning React (finally) and Next JS (the worst framework out there im sorry)
 ## Important links
 - [https://letterboxd.com/haruray/](https://letterboxd.com/haruray/)
 - https://www.backloggd.com/u/haruray/
