@@ -7,7 +7,7 @@ My real name is Safiq Faray though, informatics undergraduate student
 [![Gmail Badge](https://img.shields.io/badge/-syafiqfaray3@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:syafiqfaray3@gmail.com)](mailto:syafiqfaray3@gmail.com)
 
 ## Things i can do
-- Basic frontend with HTML, CSS, and Javascript. I think i get the hang out of react but the older version. The new one with compiller sounds cool but im not gonna refactor the entire project that i'm currently on
+- Basic frontend with HTML, CSS, and Javascript. I think i get the hang out of react but the older version. The new one with compiller sounds cool but im not gonna refactor the entire project that i'm currently working on
 - Next JS
 - Backend with PHP (Laravel)
 - Desktop app with JavaFX and .NET
