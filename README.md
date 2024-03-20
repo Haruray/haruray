@@ -7,7 +7,8 @@ My real name is Safiq Faray though, informatics undergraduate student
 [![Gmail Badge](https://img.shields.io/badge/-syafiqfaray3@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:syafiqfaray3@gmail.com)](mailto:syafiqfaray3@gmail.com)
 
 ## Things i can do
-- Basic frontend with HTML, CSS, and Javascript. I don't know any fancy JS libraries like react or vue
+- Basic frontend with HTML, CSS, and Javascript. I think i get the hang out of react but the older version. The new one with compiller sounds cool but im not gonna refactor the entire project that i'm currently on
+- Next JS
 - Backend with PHP (Laravel)
 - Desktop app with JavaFX and .NET
 - Machine learning and deep learning, especially on image interpretation and natural language processing
@@ -15,7 +16,7 @@ My real name is Safiq Faray though, informatics undergraduate student
 - Python is my go-to language for general purposes
 ## What i'm doing right now
 - Doing my final project so leave me alone
-- Learning React (finally) and Next JS (the worst framework out there im sorry)
+- Learning Nest JS
 ## Important links
 - [https://letterboxd.com/haruray/](https://letterboxd.com/haruray/)
 - https://www.backloggd.com/u/haruray/
