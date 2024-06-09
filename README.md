@@ -17,6 +17,10 @@ My real name is Safiq Faray though, informatics undergraduate student
 ## What i'm doing right now
 - Doing my final project so leave me alone
 - Learning Nest JS
+
+## Portfolio Web
+https://haruray.github.io/safiq-faray-portfolio/
+
 ## Important links
 - [https://letterboxd.com/haruray/](https://letterboxd.com/haruray/)
 - https://www.backloggd.com/u/haruray/
