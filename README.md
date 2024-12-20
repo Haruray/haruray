@@ -9,14 +9,14 @@ My real name is Safiq Faray though, informatics undergraduate student
 ## Things i can do
 - Basic frontend with HTML, CSS, and Javascript. I think i get the hang out of react but the older version. The new one with compiller sounds cool but im not gonna refactor the entire project that i'm currently working on
 - Next JS
+- Nest JS
 - Backend with PHP (Laravel)
 - Desktop app with JavaFX and .NET
 - Machine learning and deep learning, especially on image interpretation and natural language processing
 - Basic image processing with MATLAB
 - Python is my go-to language for general purposes
 ## What i'm doing right now
-- Doing my final project so leave me alone
-- Learning Nest JS
+- None
 
 ## Portfolio Web
 https://haruray.github.io/safiq-faray-portfolio/
